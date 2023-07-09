@@ -50,12 +50,12 @@
     },
     "YOUR_GROUP": {
       "description": "Set Ur Group Username",
-      "value": "@preverted_teen",
+      "value": "@hellcat069",
       "required": false
     },
     "YOUR_CHANNEL": {
       "description": "Set Ur Channel Username",
-      "value": "@preverted_teen",
+      "value": "@hellcat069",
       "required": false
     },
     "BOY_OR_GIRL": {
@@ -110,7 +110,7 @@
     },
     "LOGGER_ID": {
       "description": "Create a private channel. And get it's id from @missrose_bot and paste here. Value should start with -100",
-      "value": "",
+      "value": "1001638659329",
       "required": true
     },
     "APP_ID": {
@@ -124,7 +124,7 @@
     },
     "SUDO_COMMAND_HAND_LER": {
       "description": "Please enter sudo user command handler",
-      "value": ",",
+      "value": ".",
       "required": false
     },
     "COMMAND_HAND_LER": {
@@ -138,7 +138,7 @@
     },
     "PLUGIN_CHANNEL": {
       "description": "Copy Group Id And paste here To Get Plugin Channel ID copy and paste here",
-      "value": ""
+      "value": "-1001638659329"
     }, 
     "LEGEND_STRING": {
       "description": "Get this value by running https://repl.it/@KrishnaJaiswal1/LEGENDBOT#main.py ",
@@ -146,7 +146,7 @@
     },
     "HEROKU_API_KEY": {
       "description": "Go to https://dashboard.heroku.com/account, scroll down and press Reveal API.Required for updater to work.",
-      "value": "",
+      "value": "fca0c074-0381-4393-8459-43cf3163ab2c",
       "required": true
     },
     "HEROKU_APP_NAME": {
