@@ -45,7 +45,7 @@
     },
     "ASSISTANT": {
       "description": "Set ON or OFF",
-      "value": "",
+      "value": "on",
       "required" :true
     },
     "YOUR_GROUP": {
@@ -156,11 +156,11 @@
     },
     "BOT_TOKEN": {
       "description": "Needed for inline buttons maker. Make a bot at [BotFather](http://telegram.dog/BotFather) and get the token of your bot. And Don't Forget To Turn on inline Mode on bot settings. Get it.",
-      "value": ""
+      "value": "6374848684:AAEF19vfiq27Ms5nD0b3XhzSsCoFq3lbcXc"
     },
     "BOT_USERNAME": {
       "description": "Needed for inline buttons maker. Make a bot at @BotFather and copy the username of your bot.",
-      "value": ""
+      "value": "@CallmeZeus_bot"
     },
     "NO_OF_BUTTONS": {
       "description": " Set The Amount Of Buttons Displayed In legend Command default 7",
@@ -174,12 +174,12 @@
     },
     "EMOJI_IN_HELP1": {
       "description": "Set The emojies You Want to Add In Help Command!!",
-      "value": "",
+      "value": "🤡",
       "required": false
     },
     "EMOJI_IN_HELP2": {
       "description": "Set The emojies You Want to Add In Help Command!!",
-      "value": "",
+      "value": "🤧",
       "required": false
     },
     "PM_DATA": {
